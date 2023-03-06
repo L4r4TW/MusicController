@@ -1,4 +1,26 @@
 .node
-node_modules/
 __pycache__/
 
+# Python virtual environment
+venv/
+
+# Node.js modules
+node_modules/
+
+# Compiled files
+dist/
+build/
+static/
+
+# Log files
+logs/
+
+# Database files
+*.db
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Environment configuration files
+.env
